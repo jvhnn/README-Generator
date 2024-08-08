@@ -1,9 +1,9 @@
-# Testing Generator 
+# John Marquez
   ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-Testing if licenses work properly
+README Generator 
 
 ## Table of Contents
 
@@ -18,19 +18,21 @@ Testing if licenses work properly
 
 ## Installation
 
-no instructions at the moment
+git clone 
 
 ## Usage
 
-The project is support to generate a README file 
+This project generates a README file
 
 ## Contributing
 
-Myself
+John Marquez
 
 ## Tests
 
-No examples
+No Link currently
 
-## License This project is licensed under the MIT license.
+## License 
+
+This project is licensed under the MIT license.
 
