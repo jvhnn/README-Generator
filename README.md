@@ -1,9 +1,9 @@
-# dbsajdsadsad
-  ![License](https://img.sheilds.io/bade/License-BSD 2-Clause-blue.svg)
+# README Generator
+  ![License](https://img.sheilds.io/bade/License-MIT-blue.svg)
 
 ## Description
 
-sadsa
+This generator is suppose to autocomplete a README file with a visible license.
 
 ## Table of Contents
 
@@ -18,19 +18,19 @@ sadsa
 
 ## Installation
 
-dsad
+git clone 
 
 ## Usage
 
-sad
+Generates a README
 
 ## Contributing
 
-sads
+Myself
 
 ## Tests
 
-dsadsa
+no link 
 
-## License This project is licensed under the BSD 2-Clause license.
+## License This project is licensed under the MIT license.
 
