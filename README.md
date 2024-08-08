@@ -1,9 +1,9 @@
-# README Generator
-  ![License](https://img.sheilds.io/bade/License-MIT-blue.svg)
+# Testing Generator 
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-This generator is suppose to autocomplete a README file with a visible license.
+Testing if licenses work properly
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ This generator is suppose to autocomplete a README file with a visible license.
 
 ## Installation
 
-git clone 
+no instructions at the moment
 
 ## Usage
 
-Generates a README
+The project is support to generate a README file 
 
 ## Contributing
 
@@ -30,7 +30,7 @@ Myself
 
 ## Tests
 
-no link 
+No examples
 
 ## License This project is licensed under the MIT license.
 
