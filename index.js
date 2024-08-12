@@ -4,6 +4,8 @@ import inquirer from "inquirer";
 import generateMarkdown from "./utils/generateMarkdown.js";
 
 // TODO: Create an array of questions for user input
+
+//Validate prevents the user from progressing in the script if no data is submitted.
 const questions = [
   {
     type: "input",
@@ -26,7 +28,7 @@ const questions = [
   {
     type: "input",
     name: "usage",
-    message: "Explain what the project does",
+    message: "Explain how to run the project and what the project does.",
   },
   {
     type: "input",
@@ -39,13 +41,25 @@ const questions = [
     type: "list",
     name: "license",
     message: "Please choose a license for your project.",
-    choices: ["Apache", "GNU", "MIT", "BSD 2-Clause", "BSD 3-Clause"],
+    choices: ["Apache", "GPL v3", "MIT", "BSD 2-Clause", "BSD 3-Clause"],
   },
   {
     type: "input",
     name: "tests",
     message: "Please provide a link of an example of your project.",
     validate: (input) => (input ? true : "A link must be provided."),
+  },
+  {
+    type: "input",
+    name: "github",
+    message: "Please provide a URL to your GitHub.",
+    validate: (input) => (input ? true : "A link must be provided."),
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "Please provide your email.",
+    validate: (input) => (input ? true : "Please provide your email."),
   },
 ];
 
